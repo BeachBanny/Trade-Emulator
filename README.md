@@ -1,0 +1,2 @@
+# Trade-Emulator
+Trading Emulation
